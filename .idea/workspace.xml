@@ -19,6 +19,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sketch工具学习/学习资料视频/2019.3.6/2019.3.6.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -32,7 +37,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
+    <option name="x" value="164" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="779" />
@@ -54,12 +59,6 @@
               <item name="pm" type="462c0819:PsiDirectoryNode" />
               <item name="sketch工具学习" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pm" type="462c0819:PsiDirectoryNode" />
-              <item name="sketch工具学习" type="462c0819:PsiDirectoryNode" />
-              <item name="学习资料视频" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -71,10 +70,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551892001988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552323221245" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sketch工具学习/学习资料视频/2019.3.6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sketch工具学习/学习资料视频" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,15 +105,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551891670481</updated>
-      <workItem from="1551891671954" duration="244000" />
+      <workItem from="1551891671954" duration="660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244000" />
+    <option name="totallyTimeSpent" value="660000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="92" y="111" width="1400" height="779" extended-state="0" />
+    <frame x="73" y="43" width="1400" height="779" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -142,6 +149,9 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sketch工具学习/学习资料视频/2019.3.6/2019.3.6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/sketch工具学习/学习资料视频/网站地址">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
